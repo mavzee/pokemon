@@ -516,7 +516,7 @@ const App = () => {
 </div>
 
       <div className="button-group">
-        <button onClick={handleBattle}>Battle!</button>
+        <button onClick={handleBattle}>Fight!</button>
         <button onClick={() => setShowHistory(!showHistory)}>
           {showHistory ? "Hide Battle History" : "View Battle History"}
         </button>

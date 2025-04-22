@@ -4058,6 +4058,597 @@
           "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png"
         }
       ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "charmeleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "charmeleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "charmeleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "aurorus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "aurorus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "squirtle",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "squirtle",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "charmeleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
     }
   ],
   "battleHistory": [
@@ -4700,6 +5291,26 @@
       "userPoints": 0,
       "enemyPoints": 2,
       "timestamp": "2025-04-22T20:28:45.226Z"
+    },
+    {
+      "id": 1745356687338,
+      "userPokemon": {
+        "name": "bulbasaur",
+        "hp": 45,
+        "attack": 49,
+        "speed": 45
+      },
+      "enemyPokemon": {
+        "name": "squirtle",
+        "hp": 44,
+        "attack": 48,
+        "speed": 43
+      },
+      "winner": "bulbasaur",
+      "loser": "squirtle",
+      "userPoints": 3,
+      "enemyPoints": 0,
+      "timestamp": "2025-04-22T21:18:07.338Z"
     }
   ]
 }
