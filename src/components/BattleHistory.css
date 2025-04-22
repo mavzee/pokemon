@@ -1,0 +1,68 @@
+.battle-history {
+    margin-top: 20px;
+    width: 100%;
+    overflow-x: auto;
+  }
+  
+  .history-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+  }
+  
+  .history-table th,
+  .history-table td {
+    padding: 8px;
+    text-align: center;
+    border: 1px solid #444;
+  }
+  
+  .history-table th {
+    background-color: rgba(0, 0, 0, 0.8);
+    font-weight: bold;
+  }
+  
+  .history-table tr:nth-child(even) {
+    background-color: rgba(50, 50, 50, 0.5);
+  }
+  
+  .stat {
+    display: inline-block;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-weight: bold;
+  }
+  
+  .stat.green {
+    background-color: rgba(0, 128, 0, 0.3);
+    color: lightgreen;
+  }
+  
+  .stat.red {
+    background-color: rgba(128, 0, 0, 0.3);
+    color: lightcoral;
+  }
+  
+  .stat.gray {
+    background-color: rgba(128, 128, 128, 0.3);
+    color: lightgray;
+  }
+  
+  .random-team-button {
+    background-color: #ff5722;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+  
+  .random-team-button:hover {
+    background-color: #e64a19;
+  }
+  

@@ -1,0 +1,4524 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        "bulbasaur"
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        "bulbasaur"
+      ],
+      "enemyTeam": [
+        "zygarde-complete",
+        "cryogonal",
+        "grookey",
+        "unown",
+        "swellow"
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        "bulbasaur",
+        "ivysaur"
+      ],
+      "enemyTeam": [
+        "zygarde-complete",
+        "cryogonal",
+        "grookey",
+        "unown",
+        "swellow"
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        "bulbasaur",
+        "ivysaur",
+        "venusaur"
+      ],
+      "enemyTeam": [
+        "zygarde-complete",
+        "cryogonal",
+        "grookey",
+        "unown",
+        "swellow"
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        "bulbasaur",
+        "ivysaur",
+        "venusaur",
+        "charizard"
+      ],
+      "enemyTeam": [
+        "zygarde-complete",
+        "cryogonal",
+        "grookey",
+        "unown",
+        "swellow"
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "primeape",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
+        },
+        {
+          "name": "empoleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/395.png"
+        },
+        {
+          "name": "kommo-o-totem",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10146.png"
+        },
+        {
+          "name": "landorus-incarnate",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "slowbro",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png"
+        },
+        {
+          "name": "magneton",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png"
+        },
+        {
+          "name": "gardevoir-mega",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10051.png"
+        },
+        {
+          "name": "scatterbug",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png"
+        },
+        {
+          "name": "carbink",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png"
+        },
+        {
+          "name": "pikachu-sinnoh-cap",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10096.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "pidgey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "slowbro",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png"
+        },
+        {
+          "name": "magneton",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png"
+        },
+        {
+          "name": "gardevoir-mega",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10051.png"
+        },
+        {
+          "name": "scatterbug",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png"
+        },
+        {
+          "name": "carbink",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png"
+        },
+        {
+          "name": "pikachu-sinnoh-cap",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10096.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "pidgey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+        },
+        {
+          "name": "pidgeotto",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "slowbro",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png"
+        },
+        {
+          "name": "magneton",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png"
+        },
+        {
+          "name": "gardevoir-mega",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10051.png"
+        },
+        {
+          "name": "scatterbug",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png"
+        },
+        {
+          "name": "carbink",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png"
+        },
+        {
+          "name": "pikachu-sinnoh-cap",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10096.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "pidgey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+        },
+        {
+          "name": "pidgeotto",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png"
+        },
+        {
+          "name": "pidgeot",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "slowbro",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png"
+        },
+        {
+          "name": "magneton",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png"
+        },
+        {
+          "name": "gardevoir-mega",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10051.png"
+        },
+        {
+          "name": "scatterbug",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png"
+        },
+        {
+          "name": "carbink",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png"
+        },
+        {
+          "name": "pikachu-sinnoh-cap",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10096.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "pidgey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+        },
+        {
+          "name": "pidgeotto",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png"
+        },
+        {
+          "name": "pidgeot",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png"
+        },
+        {
+          "name": "beedrill",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "slowbro",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png"
+        },
+        {
+          "name": "magneton",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png"
+        },
+        {
+          "name": "gardevoir-mega",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10051.png"
+        },
+        {
+          "name": "scatterbug",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/664.png"
+        },
+        {
+          "name": "carbink",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/703.png"
+        },
+        {
+          "name": "pikachu-sinnoh-cap",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10096.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        },
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        },
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        },
+        {
+          "name": "charmeleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        },
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        },
+        {
+          "name": "charmeleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        },
+        {
+          "name": "charizard",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        },
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        },
+        {
+          "name": "charmeleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        },
+        {
+          "name": "charizard",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "finizen",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png"
+        },
+        {
+          "name": "bouffalant",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/626.png"
+        },
+        {
+          "name": "turtonator",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        },
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        },
+        {
+          "name": "charmeleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        },
+        {
+          "name": "charizard",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "cascoon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png"
+        },
+        {
+          "name": "swablu",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png"
+        },
+        {
+          "name": "armaldo",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/348.png"
+        },
+        {
+          "name": "articuno-galar",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10169.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        },
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        },
+        {
+          "name": "charmeleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        },
+        {
+          "name": "charizard",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "eevee-gmax",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10205.png"
+        },
+        {
+          "name": "ninetales-alola",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10104.png"
+        },
+        {
+          "name": "palossand",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/770.png"
+        },
+        {
+          "name": "rattata-alola",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10091.png"
+        },
+        {
+          "name": "pupitar",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/247.png"
+        },
+        {
+          "name": "giratina-origin",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10007.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "goldeen",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "goldeen",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+        },
+        {
+          "name": "seadra",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "goldeen",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+        },
+        {
+          "name": "seadra",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+        },
+        {
+          "name": "horsea",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "goldeen",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+        },
+        {
+          "name": "seadra",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+        },
+        {
+          "name": "horsea",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+        },
+        {
+          "name": "chansey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "goldeen",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+        },
+        {
+          "name": "seadra",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+        },
+        {
+          "name": "horsea",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+        },
+        {
+          "name": "chansey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+        },
+        {
+          "name": "tangela",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "goldeen",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+        },
+        {
+          "name": "seadra",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+        },
+        {
+          "name": "horsea",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+        },
+        {
+          "name": "chansey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+        },
+        {
+          "name": "tangela",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+        },
+        {
+          "name": "kangaskhan",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "goldeen",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+        },
+        {
+          "name": "seadra",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+        },
+        {
+          "name": "horsea",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+        },
+        {
+          "name": "chansey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+        },
+        {
+          "name": "tangela",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+        },
+        {
+          "name": "kangaskhan",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "rotom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/479.png"
+        },
+        {
+          "name": "kirlia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png"
+        },
+        {
+          "name": "cosmog",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/789.png"
+        },
+        {
+          "name": "roselia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/315.png"
+        },
+        {
+          "name": "steelix",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "goldeen",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+        },
+        {
+          "name": "seadra",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+        },
+        {
+          "name": "horsea",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+        },
+        {
+          "name": "chansey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+        },
+        {
+          "name": "tangela",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+        },
+        {
+          "name": "kangaskhan",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "altaria",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png"
+        },
+        {
+          "name": "banette",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png"
+        },
+        {
+          "name": "tauros",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png"
+        },
+        {
+          "name": "jirachi",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/385.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "goldeen",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+        },
+        {
+          "name": "seadra",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+        },
+        {
+          "name": "horsea",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+        },
+        {
+          "name": "chansey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+        },
+        {
+          "name": "tangela",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+        },
+        {
+          "name": "kangaskhan",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "abomasnow-mega",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10060.png"
+        },
+        {
+          "name": "flapple-gmax",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10216.png"
+        },
+        {
+          "name": "centiskorch-gmax",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10220.png"
+        },
+        {
+          "name": "medicham-mega",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10054.png"
+        },
+        {
+          "name": "staryu",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "goldeen",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+        },
+        {
+          "name": "seadra",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+        },
+        {
+          "name": "horsea",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+        },
+        {
+          "name": "chansey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+        },
+        {
+          "name": "tangela",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+        },
+        {
+          "name": "kangaskhan",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "togedemaru-totem",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10154.png"
+        },
+        {
+          "name": "snom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png"
+        },
+        {
+          "name": "togetic",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png"
+        },
+        {
+          "name": "hippowdon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "goldeen",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+        },
+        {
+          "name": "seadra",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+        },
+        {
+          "name": "horsea",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+        },
+        {
+          "name": "chansey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+        },
+        {
+          "name": "tangela",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+        },
+        {
+          "name": "kangaskhan",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "poltchageist",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "goldeen",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+        },
+        {
+          "name": "seadra",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+        },
+        {
+          "name": "horsea",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+        },
+        {
+          "name": "chansey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+        },
+        {
+          "name": "tangela",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+        },
+        {
+          "name": "kangaskhan",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "poltchageist",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png"
+        },
+        {
+          "name": "exeggutor",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "goldeen",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+        },
+        {
+          "name": "seadra",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+        },
+        {
+          "name": "horsea",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+        },
+        {
+          "name": "chansey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+        },
+        {
+          "name": "tangela",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+        },
+        {
+          "name": "kangaskhan",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "poltchageist",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png"
+        },
+        {
+          "name": "exeggutor",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png"
+        },
+        {
+          "name": "exeggcute",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "goldeen",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+        },
+        {
+          "name": "seadra",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+        },
+        {
+          "name": "horsea",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+        },
+        {
+          "name": "chansey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+        },
+        {
+          "name": "tangela",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+        },
+        {
+          "name": "kangaskhan",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "poltchageist",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png"
+        },
+        {
+          "name": "exeggutor",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png"
+        },
+        {
+          "name": "exeggcute",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png"
+        },
+        {
+          "name": "electrode",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "goldeen",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+        },
+        {
+          "name": "seadra",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+        },
+        {
+          "name": "horsea",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+        },
+        {
+          "name": "chansey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+        },
+        {
+          "name": "tangela",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+        },
+        {
+          "name": "kangaskhan",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "poltchageist",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png"
+        },
+        {
+          "name": "exeggutor",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png"
+        },
+        {
+          "name": "exeggcute",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png"
+        },
+        {
+          "name": "electrode",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png"
+        },
+        {
+          "name": "cubone",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "goldeen",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png"
+        },
+        {
+          "name": "seadra",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png"
+        },
+        {
+          "name": "horsea",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png"
+        },
+        {
+          "name": "chansey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png"
+        },
+        {
+          "name": "tangela",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+        },
+        {
+          "name": "kangaskhan",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "poltchageist",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png"
+        },
+        {
+          "name": "exeggutor",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png"
+        },
+        {
+          "name": "exeggcute",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png"
+        },
+        {
+          "name": "electrode",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png"
+        },
+        {
+          "name": "cubone",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png"
+        },
+        {
+          "name": "marowak",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "electrode",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "electrode",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "exeggcute",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "cubone",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "cubone",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "rhydon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "rhydon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "marowak",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "rhydon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "rhydon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "feraligatr",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/160.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "rhydon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "rhydon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "scizor",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "rhydon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "rhydon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "pikipek",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "komala",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/775.png"
+        },
+        {
+          "name": "hydrapple",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png"
+        },
+        {
+          "name": "weedle",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "chien-pao",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png"
+        },
+        {
+          "name": "coalossal-gmax",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10215.png"
+        },
+        {
+          "name": "delcatty",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png"
+        },
+        {
+          "name": "heracross-mega",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10047.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "latios",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/381.png"
+        },
+        {
+          "name": "corviknight-gmax",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10212.png"
+        },
+        {
+          "name": "minior-green-meteor",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10132.png"
+        },
+        {
+          "name": "slurpuff",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/685.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "unown",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "unown",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png"
+        },
+        {
+          "name": "wobbuffet",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "unown",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png"
+        },
+        {
+          "name": "wobbuffet",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "swanna",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png"
+        },
+        {
+          "name": "kingler",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "unown",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png"
+        },
+        {
+          "name": "wobbuffet",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "pineco",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png"
+        },
+        {
+          "name": "lapras",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "entei",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "entei",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "pidgeot-mega",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10073.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "golbat",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "golbat",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png"
+        },
+        {
+          "name": "oddish",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "golbat",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png"
+        },
+        {
+          "name": "oddish",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+        },
+        {
+          "name": "gloom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "golbat",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png"
+        },
+        {
+          "name": "oddish",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+        },
+        {
+          "name": "gloom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png"
+        },
+        {
+          "name": "vileplume",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "golbat",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png"
+        },
+        {
+          "name": "oddish",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+        },
+        {
+          "name": "gloom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png"
+        },
+        {
+          "name": "vileplume",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png"
+        },
+        {
+          "name": "paras",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "golbat",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png"
+        },
+        {
+          "name": "oddish",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+        },
+        {
+          "name": "gloom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png"
+        },
+        {
+          "name": "vileplume",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png"
+        },
+        {
+          "name": "paras",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png"
+        },
+        {
+          "name": "parasect",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "golbat",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png"
+        },
+        {
+          "name": "oddish",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+        },
+        {
+          "name": "gloom",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png"
+        },
+        {
+          "name": "vileplume",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png"
+        },
+        {
+          "name": "paras",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png"
+        },
+        {
+          "name": "parasect",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "dartrix",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png"
+        },
+        {
+          "name": "keldeo-ordinary",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png"
+        },
+        {
+          "name": "zigzagoon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/263.png"
+        },
+        {
+          "name": "wingull",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png"
+        },
+        {
+          "name": "zapdos-galar",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10170.png"
+        },
+        {
+          "name": "orbeetle",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/826.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        },
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        },
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        },
+        {
+          "name": "charmeleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        },
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        },
+        {
+          "name": "charmeleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        },
+        {
+          "name": "charizard",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "boldore",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/525.png"
+        },
+        {
+          "name": "lumineon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "jellicent",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "jellicent",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/593.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "dodrio",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "dodrio",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        },
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        },
+        {
+          "name": "metapod",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        },
+        {
+          "name": "metapod",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        },
+        {
+          "name": "metapod",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "metapod",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "zapdos",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "zapdos",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "zapdos",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "zapdos",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        },
+        {
+          "name": "entei",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        },
+        {
+          "name": "entei",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "kakuna",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        },
+        {
+          "name": "entei",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "kakuna",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+        },
+        {
+          "name": "metapod",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        },
+        {
+          "name": "entei",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "kakuna",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+        },
+        {
+          "name": "metapod",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+        },
+        {
+          "name": "caterpie",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        },
+        {
+          "name": "entei",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "kakuna",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+        },
+        {
+          "name": "metapod",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+        },
+        {
+          "name": "caterpie",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+        },
+        {
+          "name": "butterfree",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        },
+        {
+          "name": "entei",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "kakuna",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+        },
+        {
+          "name": "metapod",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+        },
+        {
+          "name": "caterpie",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+        },
+        {
+          "name": "butterfree",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
+        },
+        {
+          "name": "pidgey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        },
+        {
+          "name": "entei",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "kakuna",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png"
+        },
+        {
+          "name": "metapod",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+        },
+        {
+          "name": "caterpie",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+        },
+        {
+          "name": "butterfree",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
+        },
+        {
+          "name": "pidgey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+        },
+        {
+          "name": "rattata",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        },
+        {
+          "name": "entei",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "metapod",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+        },
+        {
+          "name": "caterpie",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+        },
+        {
+          "name": "butterfree",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
+        },
+        {
+          "name": "pidgey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+        },
+        {
+          "name": "rattata",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        },
+        {
+          "name": "entei",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "caterpie",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+        },
+        {
+          "name": "butterfree",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
+        },
+        {
+          "name": "pidgey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+        },
+        {
+          "name": "rattata",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        },
+        {
+          "name": "entei",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/244.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "butterfree",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png"
+        },
+        {
+          "name": "pidgey",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png"
+        },
+        {
+          "name": "rattata",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "charmeleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "charmeleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "charmeleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "charmeleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "bulbasaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "noctowl",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "noctowl",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "noctowl",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        },
+        {
+          "name": "charmeleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "noctowl",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/164.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        },
+        {
+          "name": "charmeleon",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "bombirdier",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png"
+        },
+        {
+          "name": "spidops",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "charmander",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "bombirdier",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png"
+        },
+        {
+          "name": "spidops",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "bombirdier",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png"
+        },
+        {
+          "name": "spidops",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "bombirdier",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        }
+      ],
+      "enemyTeam": []
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        },
+        {
+          "name": "venusaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "zarude",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
+        },
+        {
+          "name": "cutiefly",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "ivysaur",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "zarude",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
+        },
+        {
+          "name": "cutiefly",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [],
+      "enemyTeam": [
+        {
+          "name": "zarude",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
+        },
+        {
+          "name": "cutiefly",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "zarude",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
+        },
+        {
+          "name": "cutiefly",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "zarude",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
+        },
+        {
+          "name": "cutiefly",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "zarude",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
+        },
+        {
+          "name": "cutiefly",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "zarude",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
+        },
+        {
+          "name": "cutiefly",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "zarude",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
+        },
+        {
+          "name": "cutiefly",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        },
+        {
+          "name": "ho-oh",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "zarude",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
+        },
+        {
+          "name": "cutiefly",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        },
+        {
+          "name": "ho-oh",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "zarude",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
+        },
+        {
+          "name": "cutiefly",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+        },
+        {
+          "name": "watchog",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        },
+        {
+          "name": "ho-oh",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "zarude",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
+        },
+        {
+          "name": "cutiefly",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+        },
+        {
+          "name": "watchog",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png"
+        },
+        {
+          "name": "weedle",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        },
+        {
+          "name": "ho-oh",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "zarude",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
+        },
+        {
+          "name": "cutiefly",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+        },
+        {
+          "name": "watchog",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png"
+        },
+        {
+          "name": "weedle",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+        },
+        {
+          "name": "metapod",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "palkia",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+        },
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        },
+        {
+          "name": "ho-oh",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "zarude",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
+        },
+        {
+          "name": "cutiefly",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+        },
+        {
+          "name": "watchog",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png"
+        },
+        {
+          "name": "weedle",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+        },
+        {
+          "name": "metapod",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+        },
+        {
+          "name": "caterpie",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "giratina-altered",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+        },
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        },
+        {
+          "name": "ho-oh",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "zarude",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
+        },
+        {
+          "name": "cutiefly",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+        },
+        {
+          "name": "watchog",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png"
+        },
+        {
+          "name": "weedle",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+        },
+        {
+          "name": "metapod",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+        },
+        {
+          "name": "caterpie",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "dialga",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+        },
+        {
+          "name": "ho-oh",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "zarude",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
+        },
+        {
+          "name": "cutiefly",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+        },
+        {
+          "name": "watchog",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png"
+        },
+        {
+          "name": "weedle",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+        },
+        {
+          "name": "metapod",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+        },
+        {
+          "name": "caterpie",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "userTeam": [
+        {
+          "name": "darkrai",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+        },
+        {
+          "name": "arceus",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+        },
+        {
+          "name": "ho-oh",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/250.png"
+        }
+      ],
+      "enemyTeam": [
+        {
+          "name": "zarude",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/893.png"
+        },
+        {
+          "name": "cutiefly",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png"
+        },
+        {
+          "name": "watchog",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/505.png"
+        },
+        {
+          "name": "weedle",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png"
+        },
+        {
+          "name": "metapod",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png"
+        },
+        {
+          "name": "caterpie",
+          "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png"
+        }
+      ]
+    }
+  ],
+  "battleHistory": [
+    {
+      "id": 1745345064493,
+      "userPokemon": {
+        "name": "ivysaur",
+        "hp": 60,
+        "attack": 62,
+        "speed": 60
+      },
+      "enemyPokemon": {
+        "name": "zygarde-complete",
+        "hp": 216,
+        "attack": 100,
+        "speed": 85
+      },
+      "winner": "zygarde-complete",
+      "loser": "ivysaur",
+      "userPoints": 0,
+      "enemyPoints": 3,
+      "timestamp": "2025-04-22T18:04:24.493Z"
+    },
+    {
+      "id": 1745345071463,
+      "userPokemon": {
+        "name": "venusaur",
+        "hp": 80,
+        "attack": 82,
+        "speed": 80
+      },
+      "enemyPokemon": {
+        "name": "zygarde-complete",
+        "hp": 216,
+        "attack": 100,
+        "speed": 85
+      },
+      "winner": "zygarde-complete",
+      "loser": "venusaur",
+      "userPoints": 0,
+      "enemyPoints": 3,
+      "timestamp": "2025-04-22T18:04:31.463Z"
+    },
+    {
+      "id": 1745345089788,
+      "userPokemon": {
+        "name": "charizard",
+        "hp": 78,
+        "attack": 84,
+        "speed": 100
+      },
+      "enemyPokemon": {
+        "name": "unown",
+        "hp": 48,
+        "attack": 72,
+        "speed": 48
+      },
+      "winner": "charizard",
+      "loser": "unown",
+      "userPoints": 3,
+      "enemyPoints": 0,
+      "timestamp": "2025-04-22T18:04:49.788Z"
+    },
+    {
+      "id": 1745345098923,
+      "userPokemon": {
+        "name": "charizard",
+        "hp": 78,
+        "attack": 84,
+        "speed": 100
+      },
+      "enemyPokemon": {
+        "name": "swellow",
+        "hp": 60,
+        "attack": 85,
+        "speed": 125
+      },
+      "winner": "swellow",
+      "loser": "charizard",
+      "userPoints": 1,
+      "enemyPoints": 2,
+      "timestamp": "2025-04-22T18:04:58.924Z"
+    },
+    {
+      "id": 1745345275880,
+      "userPokemon": {
+        "name": "bulbasaur",
+        "hp": 45,
+        "attack": 49,
+        "speed": 45
+      },
+      "enemyPokemon": {
+        "name": "primeape",
+        "hp": 65,
+        "attack": 105,
+        "speed": 95
+      },
+      "winner": "primeape",
+      "loser": "bulbasaur",
+      "userPoints": 0,
+      "enemyPoints": 3,
+      "timestamp": "2025-04-22T18:07:55.880Z"
+    },
+    {
+      "id": 1745345335373,
+      "userPokemon": {
+        "name": "pidgey",
+        "hp": 40,
+        "attack": 45,
+        "speed": 56
+      },
+      "enemyPokemon": {
+        "name": "slowbro",
+        "hp": 95,
+        "attack": 75,
+        "speed": 30
+      },
+      "winner": "slowbro",
+      "loser": "pidgey",
+      "userPoints": 1,
+      "enemyPoints": 2,
+      "timestamp": "2025-04-22T18:08:55.373Z"
+    },
+    {
+      "id": 1745345342367,
+      "userPokemon": {
+        "name": "pidgeotto",
+        "hp": 63,
+        "attack": 60,
+        "speed": 71
+      },
+      "enemyPokemon": {
+        "name": "slowbro",
+        "hp": 95,
+        "attack": 75,
+        "speed": 30
+      },
+      "winner": "slowbro",
+      "loser": "pidgeotto",
+      "userPoints": 1,
+      "enemyPoints": 2,
+      "timestamp": "2025-04-22T18:09:02.367Z"
+    },
+    {
+      "id": 1745345346522,
+      "userPokemon": {
+        "name": "pidgeot",
+        "hp": 83,
+        "attack": 80,
+        "speed": 101
+      },
+      "enemyPokemon": {
+        "name": "slowbro",
+        "hp": 95,
+        "attack": 75,
+        "speed": 30
+      },
+      "winner": "pidgeot",
+      "loser": "slowbro",
+      "userPoints": 2,
+      "enemyPoints": 1,
+      "timestamp": "2025-04-22T18:09:06.522Z"
+    },
+    {
+      "id": 1745345883601,
+      "userPokemon": {
+        "name": "goldeen",
+        "hp": 45,
+        "attack": 67,
+        "speed": 63
+      },
+      "enemyPokemon": {
+        "name": "poltchageist",
+        "hp": 40,
+        "attack": 45,
+        "speed": 50
+      },
+      "winner": "goldeen",
+      "loser": "poltchageist",
+      "userPoints": 3,
+      "enemyPoints": 0,
+      "timestamp": "2025-04-22T18:18:03.601Z"
+    },
+    {
+      "id": 1745345893034,
+      "userPokemon": {
+        "name": "goldeen",
+        "hp": 45,
+        "attack": 67,
+        "speed": 63
+      },
+      "enemyPokemon": {
+        "name": "cubone",
+        "hp": 50,
+        "attack": 50,
+        "speed": 35
+      },
+      "winner": "goldeen",
+      "loser": "cubone",
+      "userPoints": 2,
+      "enemyPoints": 1,
+      "timestamp": "2025-04-22T18:18:13.034Z"
+    },
+    {
+      "id": 1745345967556,
+      "userPokemon": {
+        "name": "electrode",
+        "hp": 60,
+        "attack": 50,
+        "speed": 150
+      },
+      "enemyPokemon": {
+        "name": "exeggcute",
+        "hp": 60,
+        "attack": 40,
+        "speed": 40
+      },
+      "winner": "electrode",
+      "loser": "exeggcute",
+      "userPoints": 2,
+      "enemyPoints": 0,
+      "timestamp": "2025-04-22T18:19:27.556Z"
+    },
+    {
+      "id": 1745346165933,
+      "userPokemon": {
+        "name": "cubone",
+        "hp": 50,
+        "attack": 50,
+        "speed": 35
+      },
+      "enemyPokemon": {
+        "name": "rhydon",
+        "hp": 105,
+        "attack": 130,
+        "speed": 40
+      },
+      "winner": "rhydon",
+      "loser": "cubone",
+      "userPoints": 0,
+      "enemyPoints": 3,
+      "timestamp": "2025-04-22T18:22:45.933Z"
+    },
+    {
+      "id": 1745346180344,
+      "userPokemon": {
+        "name": "marowak",
+        "hp": 60,
+        "attack": 80,
+        "speed": 45
+      },
+      "enemyPokemon": {
+        "name": "rhydon",
+        "hp": 105,
+        "attack": 130,
+        "speed": 40
+      },
+      "winner": "rhydon",
+      "loser": "marowak",
+      "userPoints": 1,
+      "enemyPoints": 2,
+      "timestamp": "2025-04-22T18:23:00.344Z"
+    },
+    {
+      "id": 1745346201905,
+      "userPokemon": {
+        "name": "feraligatr",
+        "hp": 85,
+        "attack": 105,
+        "speed": 78
+      },
+      "enemyPokemon": {
+        "name": "rhydon",
+        "hp": 105,
+        "attack": 130,
+        "speed": 40
+      },
+      "winner": "rhydon",
+      "loser": "feraligatr",
+      "userPoints": 1,
+      "enemyPoints": 2,
+      "timestamp": "2025-04-22T18:23:21.905Z"
+    },
+    {
+      "id": 1745346217999,
+      "userPokemon": {
+        "name": "scizor",
+        "hp": 70,
+        "attack": 130,
+        "speed": 65
+      },
+      "enemyPokemon": {
+        "name": "rhydon",
+        "hp": 105,
+        "attack": 130,
+        "speed": 40
+      },
+      "winner": "rhydon",
+      "loser": "rhydon",
+      "userPoints": 1,
+      "enemyPoints": 1,
+      "timestamp": "2025-04-22T18:23:37.999Z"
+    },
+    {
+      "id": 1745347137493,
+      "userPokemon": {
+        "name": "venusaur",
+        "hp": 80,
+        "attack": 82,
+        "speed": 80
+      },
+      "enemyPokemon": {
+        "name": "entei",
+        "hp": 115,
+        "attack": 115,
+        "speed": 100
+      },
+      "winner": "entei",
+      "loser": "venusaur",
+      "userPoints": 0,
+      "enemyPoints": 3,
+      "timestamp": "2025-04-22T18:38:57.493Z"
+    },
+    {
+      "id": 1745349999081,
+      "userPokemon": {
+        "name": "bulbasaur",
+        "hp": 45,
+        "attack": 49,
+        "speed": 45
+      },
+      "enemyPokemon": {
+        "name": "jellicent",
+        "hp": 100,
+        "attack": 60,
+        "speed": 60
+      },
+      "winner": "jellicent",
+      "loser": "bulbasaur",
+      "userPoints": 0,
+      "enemyPoints": 3,
+      "timestamp": "2025-04-22T19:26:39.081Z"
+    },
+    {
+      "id": 1745350032226,
+      "userPokemon": {
+        "name": "venusaur",
+        "hp": 80,
+        "attack": 82,
+        "speed": 80
+      },
+      "enemyPokemon": {
+        "name": "dodrio",
+        "hp": 60,
+        "attack": 110,
+        "speed": 110
+      },
+      "winner": "dodrio",
+      "loser": "venusaur",
+      "userPoints": 1,
+      "enemyPoints": 2,
+      "timestamp": "2025-04-22T19:27:12.226Z"
+    },
+    {
+      "id": 1745350844423,
+      "userPokemon": {
+        "name": "bulbasaur",
+        "hp": 45,
+        "attack": 49,
+        "speed": 45
+      },
+      "enemyPokemon": {
+        "name": "zapdos",
+        "hp": 90,
+        "attack": 90,
+        "speed": 100
+      },
+      "winner": "zapdos",
+      "loser": "bulbasaur",
+      "userPoints": 0,
+      "enemyPoints": 3,
+      "timestamp": "2025-04-22T19:40:44.423Z"
+    },
+    {
+      "id": 1745351338510,
+      "userPokemon": {
+        "name": "darkrai",
+        "hp": 70,
+        "attack": 90,
+        "speed": 125
+      },
+      "enemyPokemon": {
+        "name": "kakuna",
+        "hp": 45,
+        "attack": 25,
+        "speed": 35
+      },
+      "winner": "darkrai",
+      "loser": "kakuna",
+      "userPoints": 3,
+      "enemyPoints": 0,
+      "timestamp": "2025-04-22T19:48:58.510Z"
+    },
+    {
+      "id": 1745351352134,
+      "userPokemon": {
+        "name": "darkrai",
+        "hp": 70,
+        "attack": 90,
+        "speed": 125
+      },
+      "enemyPokemon": {
+        "name": "metapod",
+        "hp": 50,
+        "attack": 20,
+        "speed": 30
+      },
+      "winner": "darkrai",
+      "loser": "metapod",
+      "userPoints": 3,
+      "enemyPoints": 0,
+      "timestamp": "2025-04-22T19:49:12.134Z"
+    },
+    {
+      "id": 1745351424964,
+      "userPokemon": {
+        "name": "darkrai",
+        "hp": 70,
+        "attack": 90,
+        "speed": 125
+      },
+      "enemyPokemon": {
+        "name": "caterpie",
+        "hp": 45,
+        "attack": 30,
+        "speed": 45
+      },
+      "winner": "darkrai",
+      "loser": "caterpie",
+      "userPoints": 3,
+      "enemyPoints": 0,
+      "timestamp": "2025-04-22T19:50:24.964Z"
+    },
+    {
+      "id": 1745351927443,
+      "userPokemon": {
+        "name": "bulbasaur",
+        "hp": 45,
+        "attack": 49,
+        "speed": 45
+      },
+      "enemyPokemon": {
+        "name": "charmeleon",
+        "hp": 58,
+        "attack": 64,
+        "speed": 80
+      },
+      "winner": "charmeleon",
+      "loser": "bulbasaur",
+      "userPoints": 0,
+      "enemyPoints": 3,
+      "timestamp": "2025-04-22T19:58:47.443Z"
+    },
+    {
+      "id": 1745351967380,
+      "userPokemon": {
+        "name": "bulbasaur",
+        "hp": 45,
+        "attack": 49,
+        "speed": 45
+      },
+      "enemyPokemon": {
+        "name": "charmeleon",
+        "hp": 58,
+        "attack": 64,
+        "speed": 80
+      },
+      "winner": "charmeleon",
+      "loser": "bulbasaur",
+      "userPoints": 0,
+      "enemyPoints": 3,
+      "timestamp": "2025-04-22T19:59:27.380Z"
+    },
+    {
+      "id": 1745352377989,
+      "userPokemon": {
+        "name": "bulbasaur",
+        "hp": 45,
+        "attack": 49,
+        "speed": 45
+      },
+      "enemyPokemon": {
+        "name": "noctowl",
+        "hp": 100,
+        "attack": 50,
+        "speed": 70
+      },
+      "winner": "noctowl",
+      "loser": "bulbasaur",
+      "userPoints": 0,
+      "enemyPoints": 3,
+      "timestamp": "2025-04-22T20:06:17.989Z"
+    },
+    {
+      "id": 1745352880971,
+      "userPokemon": {
+        "name": "charmeleon",
+        "hp": 58,
+        "attack": 64,
+        "speed": 80
+      },
+      "enemyPokemon": {
+        "name": "bombirdier",
+        "hp": 70,
+        "attack": 103,
+        "speed": 82
+      },
+      "winner": "bombirdier",
+      "loser": "charmeleon",
+      "userPoints": 0,
+      "enemyPoints": 3,
+      "timestamp": "2025-04-22T20:14:40.971Z"
+    },
+    {
+      "id": 1745353349734,
+      "userPokemon": {
+        "name": "charmander",
+        "hp": 39,
+        "attack": 52,
+        "speed": 65
+      },
+      "enemyPokemon": {
+        "name": "bombirdier",
+        "hp": 70,
+        "attack": 103,
+        "speed": 82
+      },
+      "winner": "bombirdier",
+      "loser": "charmander",
+      "userPoints": 0,
+      "enemyPoints": 3,
+      "timestamp": "2025-04-22T20:22:29.734Z"
+    },
+    {
+      "id": 1745353600106,
+      "userPokemon": {
+        "name": "venusaur",
+        "hp": 80,
+        "attack": 82,
+        "speed": 80
+      },
+      "enemyPokemon": {
+        "name": "zarude",
+        "hp": 105,
+        "attack": 120,
+        "speed": 105
+      },
+      "winner": "zarude",
+      "loser": "venusaur",
+      "userPoints": 0,
+      "enemyPoints": 3,
+      "timestamp": "2025-04-22T20:26:40.106Z"
+    },
+    {
+      "id": 1745353606848,
+      "userPokemon": {
+        "name": "ivysaur",
+        "hp": 60,
+        "attack": 62,
+        "speed": 60
+      },
+      "enemyPokemon": {
+        "name": "zarude",
+        "hp": 105,
+        "attack": 120,
+        "speed": 105
+      },
+      "winner": "zarude",
+      "loser": "ivysaur",
+      "userPoints": 0,
+      "enemyPoints": 3,
+      "timestamp": "2025-04-22T20:26:46.848Z"
+    },
+    {
+      "id": 1745353711448,
+      "userPokemon": {
+        "name": "palkia",
+        "hp": 90,
+        "attack": 120,
+        "speed": 100
+      },
+      "enemyPokemon": {
+        "name": "zarude",
+        "hp": 105,
+        "attack": 120,
+        "speed": 105
+      },
+      "winner": "zarude",
+      "loser": "palkia",
+      "userPoints": 0,
+      "enemyPoints": 2,
+      "timestamp": "2025-04-22T20:28:31.448Z"
+    },
+    {
+      "id": 1745353717338,
+      "userPokemon": {
+        "name": "giratina-altered",
+        "hp": 150,
+        "attack": 100,
+        "speed": 90
+      },
+      "enemyPokemon": {
+        "name": "zarude",
+        "hp": 105,
+        "attack": 120,
+        "speed": 105
+      },
+      "winner": "zarude",
+      "loser": "giratina-altered",
+      "userPoints": 1,
+      "enemyPoints": 2,
+      "timestamp": "2025-04-22T20:28:37.338Z"
+    },
+    {
+      "id": 1745353725226,
+      "userPokemon": {
+        "name": "dialga",
+        "hp": 100,
+        "attack": 120,
+        "speed": 90
+      },
+      "enemyPokemon": {
+        "name": "zarude",
+        "hp": 105,
+        "attack": 120,
+        "speed": 105
+      },
+      "winner": "zarude",
+      "loser": "dialga",
+      "userPoints": 0,
+      "enemyPoints": 2,
+      "timestamp": "2025-04-22T20:28:45.226Z"
+    }
+  ]
+}
