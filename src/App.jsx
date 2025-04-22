@@ -594,7 +594,7 @@ const App = () => {
                 >
                   {userTeam.some((p) => (typeof p === "string" ? p === pokemon.name : p.name === pokemon.name))
                     ? "Remove"
-                    : "Add to My Team"}
+                    : "Add to  Team"}
                 </button>
                 <button
                   disabled={
