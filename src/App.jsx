@@ -18,8 +18,6 @@ const App = () => {
   const [userTeam, setUserTeam] = useState([])
   const [enemyTeam, setEnemyTeam] = useState([])
   const [isLoading, setIsLoading] = useState(false)
-  const [selectedUser, setSelectedUser] = useState("")
-  const [selectedEnemy, setSelectedEnemy] = useState("")
   const [battleHistory, setBattleHistory] = useState([])
   const [showHistory, setShowHistory] = useState(false)
   const [defeatedPokemon, setDefeatedPokemon] = useState([])
@@ -50,7 +48,6 @@ const App = () => {
       setEnemyTeam(res.data.enemyTeam || [])
     } catch (err) {
       console.error("Error fetching teams, creating new team data", err)
-      // Initialize teams if they don't exist
       await axios.post("http://localhost:3001/teams", {
         id: 1,
         userTeam: [],
@@ -140,7 +137,6 @@ const App = () => {
       })
     } catch (err) {
       console.error("Error updating teams", err)
-      // If the team doesn't exist yet, create it
       try {
         await axios.post("http://localhost:3001/teams", {
           id: 1,
@@ -155,11 +151,9 @@ const App = () => {
 
   const togglePokemon = (team, setter, pokemon, maxLimit) => {
     return async () => {
-      // Check if pokemon is already in team by comparing names
       const isInTeam = team.some((p) => (typeof p === "string" ? p === pokemon.name : p.name === pokemon.name))
 
       if (isInTeam) {
-        // Remove pokemon from team
         const updatedTeam = team.filter((p) => (typeof p === "string" ? p !== pokemon.name : p.name !== pokemon.name))
         setter(updatedTeam)
         await updateTeams(
@@ -167,10 +161,9 @@ const App = () => {
           setter === setEnemyTeam ? updatedTeam : enemyTeam,
         )
       } else if (team.length < maxLimit) {
-        // Add pokemon to team (ensure it's an object with name and image)
         const pokemonObj =
           typeof pokemon === "string"
-            ? { name: pokemon, image: null } // Handle legacy string format
+            ? { name: pokemon, image: null }
             : { name: pokemon.name, image: pokemon.image }
 
         const updatedTeam = [...team, pokemonObj]
@@ -193,15 +186,11 @@ const App = () => {
   const generateRandomEnemyTeam = async () => {
     setIsLoading(true)
     try {
-      // Clear current enemy team
       setEnemyTeam([])
 
-      // Get random Pokémon
-      // Use the user's team size, or default to a small team if user team is empty
       const teamSize = userTeam.length > 0 ? userTeam.length : Math.floor(Math.random() * 2) + 1
       const randomIndices = []
 
-      // Generate unique random indices
       while (randomIndices.length < teamSize) {
         const randomIndex = Math.floor(Math.random() * allPokemon.length)
         if (!randomIndices.includes(randomIndex)) {
@@ -209,7 +198,6 @@ const App = () => {
         }
       }
 
-      // Get the Pokémon data from the random indices
       const randomTeam = await Promise.all(
         randomIndices.map(async (index) => {
           const pokemonData = await axios.get(allPokemon[index].url)
@@ -220,14 +208,8 @@ const App = () => {
         }),
       )
 
-      // Update state and save to db.json
       setEnemyTeam(randomTeam)
       await updateTeams(userTeam, randomTeam)
-
-      // Auto-select first enemy Pokémon for battle
-      if (randomTeam.length > 0) {
-        setSelectedEnemy(randomTeam[0].name)
-      }
 
       await Swal.fire({
         title: 'Enemy Team Generated!',
@@ -249,10 +231,10 @@ const App = () => {
   }
 
   const handleBattle = async () => {
-    if (!selectedUser || !selectedEnemy) {
+    if (userTeam.length === 0 || enemyTeam.length === 0) {
       await Swal.fire({
-        title: 'Selection Required',
-        text: 'Choose Pokémon to fight',
+        title: 'Teams Empty!',
+        text: 'Both teams need at least one Pokémon to battle',
         icon: 'warning',
         confirmButtonText: 'OK'
       })
@@ -260,9 +242,12 @@ const App = () => {
     }
 
     try {
+      const userPokemonName = typeof userTeam[0] === "string" ? userTeam[0] : userTeam[0].name;
+      const enemyPokemonName = typeof enemyTeam[0] === "string" ? enemyTeam[0] : enemyTeam[0].name;
+
       const [userData, enemyData] = await Promise.all([
-        axios.get(`https://pokeapi.co/api/v2/pokemon/${selectedUser}`),
-        axios.get(`https://pokeapi.co/api/v2/pokemon/${selectedEnemy}`),
+        axios.get(`https://pokeapi.co/api/v2/pokemon/${userPokemonName}`),
+        axios.get(`https://pokeapi.co/api/v2/pokemon/${enemyPokemonName}`),
       ])
 
       const getStats = (data) => {
@@ -308,7 +293,6 @@ const App = () => {
       try {
         await axios.post(HISTORY_API, battleResult)
       } catch (err) {
-        // If the endpoint doesn't exist, create it
         console.error("Error posting battle history, attempting to initialize", err)
         try {
           await axios.post("http://localhost:3001/battleHistory", battleResult)
@@ -319,27 +303,18 @@ const App = () => {
 
       await fetchBattleHistory()
 
-      // Remove the losing Pokémon from its team
       if (winner === userStats.name) {
-        // Enemy Pokémon lost
         const updatedEnemyTeam = enemyTeam.filter((p) =>
           typeof p === "string" ? p !== enemyStats.name : p.name !== enemyStats.name,
         )
         setEnemyTeam(updatedEnemyTeam)
         await updateTeams(userTeam, updatedEnemyTeam)
-        if (selectedEnemy === enemyStats.name) {
-          setSelectedEnemy("")
-        }
       } else {
-        // User Pokémon lost
         const updatedUserTeam = userTeam.filter((p) =>
           typeof p === "string" ? p !== userStats.name : p.name !== userStats.name,
         )
         setUserTeam(updatedUserTeam)
         await updateTeams(updatedUserTeam, enemyTeam)
-        if (selectedUser === userStats.name) {
-          setSelectedUser("")
-        }
       }
 
       await Swal.fire({
@@ -401,24 +376,19 @@ const App = () => {
 
     if (result.isConfirmed) {
       try {
-        // Reset teams
         await axios.put(TEAM_API, {
           id: 1,
           userTeam: [],
           enemyTeam: [],
         })
 
-        // Reset battle history by replacing it with an empty array
         const historyRes = await axios.get(HISTORY_API)
         await Promise.all(historyRes.data.map((item) => axios.delete(`${HISTORY_API}/${item.id}`)))
 
-        // Update local state
         setUserTeam([])
         setEnemyTeam([])
         setBattleHistory([])
         setDefeatedPokemon([])
-        setSelectedUser("")
-        setSelectedEnemy("")
 
         await Swal.fire(
           'Reset!',
@@ -456,67 +426,54 @@ const App = () => {
         onChange={handleSearch}
       />
 
-<div className="teams-container">
-  <div className="team-box">
-    <h2>My Team ({userTeam.length}/6)</h2>
-    {userTeam.map((pokemon) => {
-      const name = typeof pokemon === "string" ? pokemon : pokemon.name
-      const image = typeof pokemon === "string" ? null : pokemon.image
+      <div className="teams-container">
+        <div className="team-box">
+          <h2>My Team ({userTeam.length}/6)</h2>
+          {userTeam.map((pokemon) => {
+            const name = typeof pokemon === "string" ? pokemon : pokemon.name
+            const image = typeof pokemon === "string" ? null : pokemon.image
 
-      return (
-        <div key={name} className="team-member">
-          {image && (
-            <img
-              src={image || "/placeholder.svg"}
-              alt={name}
-              style={{ width: "40px", height: "40px", borderRadius: "50%" }}
-            />
-          )}
-          <span className="pokemon-name">{name}</span>
-          <button onClick={togglePokemon(userTeam, setUserTeam, pokemon, 6)}>Remove</button>
-          <input
-            type="radio"
-            name="user"
-            checked={selectedUser === name}
-            onChange={() => setSelectedUser(name)}
-          />
+            return (
+              <div key={name} className="team-member">
+                {image && (
+                  <img
+                    src={image || "/placeholder.svg"}
+                    alt={name}
+                    style={{ width: "40px", height: "40px", borderRadius: "50%" }}
+                  />
+                )}
+                <span className="pokemon-name">{name}</span>
+                <button onClick={togglePokemon(userTeam, setUserTeam, pokemon, 6)}>Remove</button>
+              </div>
+            )
+          })}
         </div>
-      )
-    })}
-  </div>
 
-  <div className="team-box">
-    <h2>Enemy Team ({enemyTeam.length}/6)</h2>
-    
-    {enemyTeam.map((pokemon) => {
-      const name = typeof pokemon === "string" ? pokemon : pokemon.name
-      const image = typeof pokemon === "string" ? null : pokemon.image
+        <div className="team-box">
+          <h2>Enemy Team ({enemyTeam.length}/6)</h2>
+          {enemyTeam.map((pokemon) => {
+            const name = typeof pokemon === "string" ? pokemon : pokemon.name
+            const image = typeof pokemon === "string" ? null : pokemon.image
 
-      return (
-        <div key={name} className="team-member">
-          {image && (
-            <img
-              src={image || "/placeholder.svg"}
-              alt={name}
-              style={{ width: "40px", height: "40px", borderRadius: "50%" }}
-            />
-          )}
-          <span className="pokemon-name">{name}</span>
-          <button onClick={togglePokemon(enemyTeam, setEnemyTeam, pokemon, 6)}>Remove</button>
-          <input
-            type="radio"
-            name="enemy"
-            checked={selectedEnemy === name}
-            onChange={() => setSelectedEnemy(name)}
-          />
+            return (
+              <div key={name} className="team-member">
+                {image && (
+                  <img
+                    src={image || "/placeholder.svg"}
+                    alt={name}
+                    style={{ width: "40px", height: "40px", borderRadius: "50%" }}
+                  />
+                )}
+                <span className="pokemon-name">{name}</span>
+                <button onClick={togglePokemon(enemyTeam, setEnemyTeam, pokemon, 6)}>Remove</button>
+              </div>
+            )
+          })}
         </div>
-      )
-    })}
-  </div>
-</div>
+      </div>
 
       <div className="button-group">
-        <button onClick={handleBattle}>Fight!</button>
+        <button onClick={handleBattle}>Battle!</button>
         <button onClick={() => setShowHistory(!showHistory)}>
           {showHistory ? "Hide Battle History" : "View Battle History"}
         </button>
@@ -594,7 +551,7 @@ const App = () => {
                 >
                   {userTeam.some((p) => (typeof p === "string" ? p === pokemon.name : p.name === pokemon.name))
                     ? "Remove"
-                    : "Add to  Team"}
+                    : "Catch!"}
                 </button>
                 <button
                   disabled={
